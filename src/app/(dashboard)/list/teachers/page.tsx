@@ -121,11 +121,6 @@ const TeacherListPage = async ({
                 classId: +value,
               },
             }
-
-            break
-
-          default:
-            break
         }
       }
     }
